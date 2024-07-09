@@ -11,6 +11,7 @@ Welcome to PyStarter's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   docs
    app
 
 

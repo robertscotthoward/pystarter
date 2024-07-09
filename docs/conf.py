@@ -42,4 +42,5 @@ todo_include_todos = True
 html_theme = 'alabaster'
 html_theme = 'python-docs-theme'
 html_theme = 'classic'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
